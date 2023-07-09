@@ -12,7 +12,7 @@
         "AcceptsFeedback": false,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "AssemblyVersion": "0.0.0.7",
+        "AssemblyVersion": "0.0.0.9",
         "DownloadLinkInstall": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip",
         "DownloadLinkTesting": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip"
