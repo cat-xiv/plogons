@@ -13,6 +13,6 @@
   "IsTestingExclusive": "False",
   "AssemblyVersion": "1.0.0.0",
   "DownloadLinkInstall": "https://raw.githubusercontent.com/cat-xiv/plogons/main/cat/latest.zip/",
-  "DownloadLinkTesting": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip"
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/cat-xiv/plogons/main/cat/latest.zip/",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/cat-xiv/plogons/main/cat/latest.zip/"
 }
