@@ -1,20 +1,18 @@
-[
-  {
-    "Author": "Cat",
-    "Name": "CatInv",
-    "Punchline": "Does smth",
-    "Description": "hello",
-    "InternalName": "CatInv",
-    "RepoUrl": "https://github.com/cat-xiv/plogons",
-    "ApplicableVersion": "any",
-    "Tags": [],
-    "DalamudApiLevel": 9,
-    "AcceptsFeedback": false,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.0",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/cat-xiv/plogons/main/cat/latest.zip/",
-    "DownloadLinkTesting": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip"
-  }
-]
+{
+  "Author": "Cat",
+  "Name": "CatInv",
+  "Punchline": "Does smth",
+  "Description": "hello",
+  "InternalName": "CatInv",
+  "RepoUrl": "https://github.com/cat-xiv/plogons",
+  "ApplicableVersion": "any",
+  "Tags": [],
+  "DalamudApiLevel": 9,
+  "AcceptsFeedback": false,
+  "IsHide": "False",
+  "IsTestingExclusive": "False",
+  "AssemblyVersion": "1.0.0.0",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/cat-xiv/plogons/main/cat/latest.zip/",
+  "DownloadLinkTesting": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/cat-xiv/plogons/releases/latest/download/latest.zip"
+}
