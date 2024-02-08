@@ -1,0 +1,20 @@
+{
+  "Author": "Cat",
+  "Name": "Cat",
+  "InternalName": "Cat",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "meow.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "cat",
+    "meow",
+    "meow."
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "meow.",
+  "AcceptsFeedback": true
+}
